@@ -12,3 +12,7 @@
 ### Building Dashboards with Flask and Plotly
 
 * https://blog.heptanalytics.com/2018/08/07/flask-plotly-dashboard/
+
+### Tutorials
+
+* https://www.fullstackpython.com/flask.html
