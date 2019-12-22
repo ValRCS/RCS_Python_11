@@ -41,7 +41,10 @@ to \Anaconda3\Library\plugins\platforms\
 
 Ref: https://stackoverflow.com/questions/41994485/error-could-not-find-or-load-the-qt-platform-plugin-windows-while-using-matplo
 
+## QT Designer 
+We do not need to create widgets by hand
 
+https://stackoverflow.com/questions/37419138/is-qt-designer-bundled-with-anaconda
 
 
 
