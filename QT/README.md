@@ -46,7 +46,8 @@ We do not need to create widgets by hand
 
 https://stackoverflow.com/questions/37419138/is-qt-designer-bundled-with-anaconda
 
-
+## Download QT standalone
+https://www.qt.io/offline-installers
 
     
 
