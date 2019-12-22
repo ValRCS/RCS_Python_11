@@ -7,6 +7,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWebKit import *
 from PyQt5.QtWebKitWidgets import *
 
+
 # I created main.ui in QTDesigner found in ProgramData/Anaconda3/Library/bin on Windows
 uifile = os.path.join(os.getcwd(), 'UI', 'main.ui')
 print(uifile)
