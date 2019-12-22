@@ -15,6 +15,6 @@ https://wiki.qt.io/Qt_for_Python
 ## Installation
 * https://pypi.org/project/PySide2/
 
-    pip install PySide2
+    `pip install PySide2`
     
 
