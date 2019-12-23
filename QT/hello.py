@@ -11,7 +11,7 @@ class MyWidget(QWidget):
         QWidget.__init__(self)
 
         self.hello = ["Hallo Welt", "你好，世界", "Hei maailma",
-                      "Hola Mundo", "Привет мир"]
+                      "Hola Mundo", "Привет мир", "Sveiciens"]
 
         self.button = QPushButton("Click me!")
         self.text = QLabel("Hello World")
